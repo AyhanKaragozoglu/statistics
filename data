@@ -1,0 +1,16 @@
+
+Interval (aralıklı) veriler:
+Nesnelerin sıralanmasında kullanılır.
+Eşit aralıkların eşit mesafelerini temsil ettiği bir ölçek türüdür.
+Ordinal ölçümün bütün özelliklerini taşır.
+Nesneler arasındaki farkın mukayesesine imkan tanır.
+Başlangıç noktası sorunu vardır. Araştırmacı kendi yaptığı çalışmaya göre bir başlangıç noktası belirler.
+Sıfır noktası sabit olmadığı için başlangıç noktası görecelidir.
+(Örnek: Küçük ve büyük tansiyonların değer aralıkları, Kan pH’ı 7.1 ile 7.5 arasında olması, vücut sıcaklığını ölçmek için kullanılan termometreler, likert ölçeği (tutum ve davranışları ölçmek için 1 ile 5 arasında değer vermek gibi, ya da kötü—harika tarzı anlamsal dizilimler..)
+:orange_alert: Ratio (Oransal) Veriler:
+Interval, ordinal ve nominal ölçüm türünün özelliklerini taşır.
+Aynı zamanda mutlak sıfır noktasına da sahiptir.
+En üst ölçüm tekniğidir, her türlü istatiksel ve matematik işleme imkan tanımaktadır.
+Cevaplayıcı sıfırdan herhangi bir sayıya kadar cevap verebilir.
+Oransallık söz konusudur.
+(Örnek: Yıllık kazancınız ne kadar, kaç çocuğunuz var, sağlık alanında ağırlık ölçümü, boy ölçümü, fizik bilimindeki ölçümler ağırlık, alan, hacim gibi, ölen hastalanan yaralanan hakkındaki veriler vb.)
